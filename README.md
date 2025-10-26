@@ -1,13 +1,10 @@
----
-# 🚀 Martí Miró's Awesome Profile
-
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mi:
 Estudiant d'enginyeria informàtica a la UB
 - 📍 Location: Barcelona
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,github,git,vim,jupyter,numpy,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,github,git,vim,linux)](https://skillicons.dev)
 
 ## 🌐 Contact
 - 📧 Email: marti.miro.06@gmail.com
