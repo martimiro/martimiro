@@ -5,6 +5,8 @@
 Estudiant d'enginyeria informàtica a la UB
 - 📍 Location: Barcelona
 
+---
+
 [![My Skills](https://skillicons.dev/icons?i=python,java,vscode,github,git,vim,jupyter,numpy,linux)](https://skillicons.dev)
 
 ## 🌐 Contact
