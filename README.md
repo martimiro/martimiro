@@ -5,18 +5,11 @@
 Estudiant d'enginyeria informàtica a la UB
 
 ## 🔧 Current Work
-- 🔭 Working on: [Your currentProjects]
 - 🌱 Learning: [![My Skills](https://skillicons.dev/icons?i=python,java,vscode,github,git,vim,jupyter,numpy,linux)](https://skillicons.dev)
 - 📍 Location: Barcelona
 
 ## 🌐 Contact
 - 📧 Email: marti.miro.06@gmail.com
-- 🌍 Website: [Your website]
-
-## ✨ Fun Fact
-[Your funFact]
-
----
 
 ## 🛠️ Tech Stack
 <div align="center">
