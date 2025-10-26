@@ -1,4 +1,4 @@
-## 👨‍💻 Sobre mi:
+## 👨‍💻 About me:
 Estudiant d'enginyeria informàtica a la UB
 - 📍 Location: Barcelona
 
