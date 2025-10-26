@@ -11,15 +11,7 @@ Estudiant d'enginyeria informàtica a la UB
 ## 🌐 Contact
 - 📧 Email: marti.miro.06@gmail.com
 
-## 🛠️ Tech Stack
-<div align="center">
-{{#each skills}}
-<img src="https://img.shields.io/badge/[Your this]-informational?style=for-the-badge&logo=[Your this]&logoColor=white" alt="[Your this] badge" />
-{{/each}}
-</div>
-
 ---
-
 
 ## 📈 GitHub Stats
 <div align="center">
