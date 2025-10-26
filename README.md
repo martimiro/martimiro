@@ -1,4 +1,4 @@
-# 👾 Hola, sóc Martí Miró  
+# 👾 Hola, sóc Martí Miró
 *Explorant el codi i l’univers digital…* 🚀
 
 ---
