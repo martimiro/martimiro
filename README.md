@@ -20,27 +20,11 @@ Estudiant d'enginyeria informàtica a la UB
 
 ---
 
-## 🚀 Projects
-{{#each currentProjects}}
-### 🔹 [{{this.name}}]({{this.link}})
-> {{this.description}}
-
-**Tech Stack:** {{this.stack}}
-{{/each}}
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=martimiro&show_icons=true&theme=tokyonight" alt="Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=martimiro&theme=tokyonight" alt="Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=martimiro&theme=tokyonight&row=2&column=4" />
 </div>
 
 ---
