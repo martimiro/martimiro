@@ -24,7 +24,7 @@ Benvingut al meu perfil de GitHub! 💻✨
 
 ## 📈 Estadístiques de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuari&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martimiro&show_icons=true&theme=radical)
 
 ---
 
