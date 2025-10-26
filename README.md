@@ -8,8 +8,9 @@ Estudiant d'enginyeria informàtica a la UB
 - ✉️ [Email](mailto:marti.miro.06@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mart%C3%AD-mir%C3%B3-barcel%C3%B3-b68539336/)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,vscode,github,git,vim,linux)](https://skillicons.dev)
+---
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,vscode,github,git,vim,linux)](https://skillicons.dev)
 
 ---
 
