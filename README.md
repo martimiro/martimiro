@@ -8,6 +8,7 @@ Estudiant d'enginyeria informàtica a la UB
 
 ## 🌐 Contact
 - 📧 Email: marti.miro.06@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/mart%C3%AD-mir%C3%B3-barcel%C3%B3-b68539336/)
 
 ---
 
