@@ -1,49 +1,49 @@
-# 👋 Hola! Sóc martí miró
-
-Benvingut al meu perfil de GitHub! 💻✨
-
----
-
-## 🛠️ Tecnologies i eines que utilitzo
-
-- **Lenguatges de programació:** C++, Java, Python, JavaScript  
-- **Frameworks i llibreries:** Swing, React, Tailwind, etc.  
-- **Altres eines:** Git, GitHub, VS Code, NetBeans  
+# 👾 Hola, sóc autista  
+*Explorant el codi i l’univers digital…* 🚀
 
 ---
 
-## 📂 Projectes destacats
+## 🛠️ Tech Stack
 
-| Projecte | Descripció | Enllaç |
-|----------|------------|--------|
-| MubiesflixBST | Arbre binari de cerca amb dades de pel·lícules i directors | [Repo](https://github.com/tuusuari/MubiesflixBST) |
-| HashMap C++ | Implementació d'una taula de hash amb llistes encadenades | [Repo](https://github.com/tuusuari/HashMap) |
-| Aplicació Clínica | GUI Java Swing per gestionar visites d’animals | [Repo](https://github.com/tuusuari/AplicacioClinica) |
+| Backend | Frontend | Outils |
+|---------|---------|--------|
+| C++, Java, Python | React, Swing | Git, VS Code, NetBeans |
 
 ---
 
-## 📈 Estadístiques de GitHub
+## 🌌 Projectes en curs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martimiro&show_icons=true&theme=radical)
+- **MubiesflixBST** – Arbre binari de cerca amb dades de pel·lícules 🎬  
+- **HashMap C++** – Taula de hash amb llistes encadenades 🧩  
+- **Aplicació Clínica** – GUI Java Swing per gestionar visites 🐾  
 
----
-
-## 🌱 Actualment aprenent
-
-- Estructures de dades avançades en C++  
-- Desenvolupament d’interfícies amb Java Swing i React  
-- Optimització d’algoritmes  
+> ⚡ *Tots els projectes estan pensats per optimitzar i experimentar amb algoritmes avançats.*
 
 ---
 
-## 📫 Com contactar-me
+## 📊 Estadístiques
 
-- Correu: [tuemail@exemple.com](mailto:tuemail@exemple.com)  
-- Twitter: [@teutwitter](https://twitter.com/teutwitter)  
-- LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuari&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuari&layout=compact&theme=dark)
 
 ---
 
-### ⚡ Curiositat
+## 🌱 En aprenentatge continu
 
-> Sempre buscant nous reptes de programació i projectes interessants per aprendre i compartir!
+- IA i Machine Learning 🤖  
+- Algoritmes avançats i optimització 🔧  
+- Interfaces futuristes i experiència d’usuari 💡
+
+---
+
+## 📫 Contacte
+
+- [Email](mailto:tuemail@exemple.com)  
+- [Twitter](https://twitter.com/teutwitter)  
+- [LinkedIn](https://linkedin.com/in/tuperfil)  
+
+---
+
+### 🔮 Missió
+
+> Transformar idees en codi eficient i elegant. Sempre explorant nous límits tecnològics.  
