@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hola! Sóc martí miró
 
-<!--
-**martimiro/martimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvingut al meu perfil de GitHub! 💻✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologies i eines que utilitzo
+
+- **Lenguatges de programació:** C++, Java, Python, JavaScript  
+- **Frameworks i llibreries:** Swing, React, Tailwind, etc.  
+- **Altres eines:** Git, GitHub, VS Code, NetBeans  
+
+---
+
+## 📂 Projectes destacats
+
+| Projecte | Descripció | Enllaç |
+|----------|------------|--------|
+| MubiesflixBST | Arbre binari de cerca amb dades de pel·lícules i directors | [Repo](https://github.com/tuusuari/MubiesflixBST) |
+| HashMap C++ | Implementació d'una taula de hash amb llistes encadenades | [Repo](https://github.com/tuusuari/HashMap) |
+| Aplicació Clínica | GUI Java Swing per gestionar visites d’animals | [Repo](https://github.com/tuusuari/AplicacioClinica) |
+
+---
+
+## 📈 Estadístiques de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuari&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Actualment aprenent
+
+- Estructures de dades avançades en C++  
+- Desenvolupament d’interfícies amb Java Swing i React  
+- Optimització d’algoritmes  
+
+---
+
+## 📫 Com contactar-me
+
+- Correu: [tuemail@exemple.com](mailto:tuemail@exemple.com)  
+- Twitter: [@teutwitter](https://twitter.com/teutwitter)  
+- LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
+
+---
+
+### ⚡ Curiositat
+
+> Sempre buscant nous reptes de programació i projectes interessants per aprendre i compartir!
