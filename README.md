@@ -22,7 +22,6 @@ Estudiant d'enginyeria informàtica a la UB
 <img src="https://github-readme-streak-stats.herokuapp.com?user=martimiro&theme=tokyonight" alt="Streak" />
 </div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=martimiro)](https://github.com/martimiro/github-readme-stats)
 ---
 
 ## 📊 Activity Graph
