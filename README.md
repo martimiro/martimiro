@@ -12,7 +12,7 @@ Estudiant d'enginyeria informàtica a la UB
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,vscode,github,git,vim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,github,git,linux)](https://skillicons.dev)
 
 ---
 
