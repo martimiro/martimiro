@@ -13,24 +13,3 @@ Estudiant d'enginyeria informàtica a la UB
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,github,git,linux)](https://skillicons.dev)
 
 ---
-
-## 📈 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=martimiro&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=martimiro&theme=tokyonight" alt="Streak" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimiro&layout=compact&theme=tokyonight" />
-</p>
-
-
-
----
-
-## 📊 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=martimiro&theme=tokyo-night&area=true" />
-</div>
-
----
