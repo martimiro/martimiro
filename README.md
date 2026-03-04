@@ -14,6 +14,6 @@ Estudiant d'enginyeria informàtica a la UB
 
 ---
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martimiro&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martimiro&theme=tokyonight)
 
 ---
