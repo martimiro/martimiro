@@ -13,3 +13,7 @@ Estudiant d'enginyeria informàtica a la UB
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,github,git,linux)](https://skillicons.dev)
 
 ---
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
+---
